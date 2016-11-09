@@ -86,6 +86,6 @@ public class BinaryTreeAlgorithms {
 		root.left.left.left = new TreeNode(7);
 		root.right.left.right = new TreeNode(8);
 		
-		printAllPathsWithValue(root,11);
+		printAllPathsWithValue(root,1);
 	}
 }
